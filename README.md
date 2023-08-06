@@ -18,6 +18,7 @@
 <h3 align="left">📝 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [中文文案排版指北](https://www.cubeyond.net/chinese-copywriting-guidelines/)
 - [[置顶] 博客站点说明](https://www.cubeyond.net/announcement-about-my-blog/)
 - [Arch Linux 双系统 + Bspwm 配置小记](https://www.cubeyond.net/archlinux-dualboot-and-bspwm-configure/)
 - [校园卡破解](https://www.cubeyond.net/ic-card-replay-attack/)
