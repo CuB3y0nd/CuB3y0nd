@@ -3,10 +3,6 @@
 <p align="center">
   <a href="https://www.cubeyond.net/">Blog</a> •
   <a href="mailto:root@cubeyond.net">E-Mail</a>
-  <img
-    src="https://komarev.com/ghpvc/?username=CuB3y0nd"
-    alt="CuB3y0nd"
-  />
 </p>
 
 <h3 align="left">👨‍💻 About Me</h3>
@@ -31,3 +27,10 @@
   <a href='https://profile.codersrank.io/user/CuB3y0nd/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=CuB3y0nd&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
 </a>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=CuB3y0nd"
+    alt="CuB3y0nd"
+  />
+</p>
