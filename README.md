@@ -5,6 +5,8 @@
   <a href="mailto:root@cubeyond.net">E-Mail</a>
 </p>
 
+<img align="right" src="https://raw.githubusercontent.com/CuB3y0nd/CuB3y0nd/main/images/pusheencode.gif" width=500>
+
 <h3 align="left">💻 About Me</h3>
 
 - ID: CuB3y0nd
