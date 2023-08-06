@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - ID: CuB3y0nd
-- TEAM: NO TEAM :(
 - PWNER
+- TEAM: NO TEAM :(
 - E-Mail: [root@cubeyond.net](mailto:root@cubeyond.net)
 - Blog: [CuB3y0nd's Blog](https://www.cubeyond.net/)
 
