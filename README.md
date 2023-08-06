@@ -24,6 +24,8 @@
 - [《高效能人士的七个习惯》](https://www.cubeyond.net/the-7-habits-of-highly-effective-people/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </div>
