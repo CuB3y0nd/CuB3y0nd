@@ -18,11 +18,11 @@
 <h3 align="left">📝 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [32-bit vs 64-bit](https://www.cubeyond.net/32-bit-vs-64-bit/)
 - [NOPs](https://www.cubeyond.net/nops/)
 - [shellcode](https://www.cubeyond.net/shellcode/)
 - [德布鲁因（De Bruijn）序列](https://www.cubeyond.net/de-bruijn-sequences/)
 - [ret2win](https://www.cubeyond.net/ret2win/)
-- [二进制漏洞利用简介](https://www.cubeyond.net/stack-introduction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
