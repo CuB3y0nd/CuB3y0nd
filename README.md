@@ -18,11 +18,11 @@
 <h3 align="left">📝 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [面向返回编程简介](https://www.cubeyond.net/return-oriented-programming/)
 - [No eXecute](https://www.cubeyond.net/no-execute/)
 - [32-bit vs 64-bit](https://www.cubeyond.net/32-bit-vs-64-bit/)
 - [NOPs](https://www.cubeyond.net/nops/)
 - [shellcode](https://www.cubeyond.net/shellcode/)
-- [德布鲁因（De Bruijn）序列](https://www.cubeyond.net/de-bruijn-sequences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
