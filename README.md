@@ -18,11 +18,11 @@
 <h3 align="left">📝 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [模运算](https://www.cubeyond.net/modular-arithmetic/)
 - [可除性，因数和欧几里得算法](https://www.cubeyond.net/divisibility-factors-and-euclids-algorithms/)
 - [调用约定](https://www.cubeyond.net/calling-conventions/)
 - [面向返回编程简介](https://www.cubeyond.net/return-oriented-programming/)
 - [No eXecute](https://www.cubeyond.net/no-execute/)
-- [32-bit vs 64-bit](https://www.cubeyond.net/32-bit-vs-64-bit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
