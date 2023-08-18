@@ -18,11 +18,11 @@
 <h3 align="left">📝 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Pwntools Cheetsheet](https://www.cubeyond.net/pwntools-cheetsheet/)
 - [ret2libc](https://www.cubeyond.net/ret2libc/)
 - [攻击调用约定](https://www.cubeyond.net/exploiting-calling-conventions/)
 - [Gadgets](https://www.cubeyond.net/gadgets/)
 - [环、域和欧拉函数](https://www.cubeyond.net/rings-fields-and-eulers-totient-function/)
-- [模运算](https://www.cubeyond.net/modular-arithmetic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
