@@ -10,7 +10,7 @@
 <h3 align="left">💻 About Me</h3>
 
 - ID: CuB3y0nd
-- PWNER
+- ROAL: PWNER
 - TEAM: NO TEAM :(
 - E-Mail: [root@cubeyond.net](mailto:root@cubeyond.net)
 - Blog: [CuB3y0nd's Blog](https://www.cubeyond.net/)
