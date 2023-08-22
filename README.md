@@ -18,11 +18,11 @@
 <h3 align="left">📝 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [利用已泄漏信息绕过 PIE](https://www.cubeyond.net/pie-exploit/)
 - [PIE](https://www.cubeyond.net/pie/)
 - [Canaries](https://www.cubeyond.net/canaries/)
 - [格式化字符串漏洞](https://www.cubeyond.net/format-string/)
 - [Pwntools Cheetsheet](https://www.cubeyond.net/pwntools-cheetsheet/)
-- [ret2libc](https://www.cubeyond.net/ret2libc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
