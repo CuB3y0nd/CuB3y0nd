@@ -18,11 +18,11 @@
 <h3 align="left">📝 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [ROP 和 Shellcode](https://www.cubeyond.net/rop-and-shellcode/)
 - [更可靠的 shellcode](https://www.cubeyond.net/reliable-shellcode/)
 - [RELRO](https://www.cubeyond.net/relro/)
 - [利用 GOT Overwrite](https://www.cubeyond.net/exploiting-a-got-overwrite/)
 - [GOT Overwrite](https://www.cubeyond.net/got-overwrite/)
-- [ret2plt 绕过 ASLR](https://www.cubeyond.net/ret2plt-aslr-bypass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
