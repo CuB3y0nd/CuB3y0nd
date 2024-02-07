@@ -18,11 +18,11 @@
 <h3 align="left">📝 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [eza CVE Report](https://www.cubeyond.net/blog/eza-cve-report)
 - [ROP 和 Shellcode](https://www.cubeyond.net/blog/rop-and-shellcode)
 - [利用 GOT Overwrite](https://www.cubeyond.net/blog/exploiting-a-got-overwrite)
 - [GOT Overwrite](https://www.cubeyond.net/blog/got-overwrite)
 - [更可靠的 shellcode](https://www.cubeyond.net/blog/reliable-shellcode)
-- [RELRO](https://www.cubeyond.net/blog/relro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
