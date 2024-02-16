@@ -18,11 +18,11 @@
 <h3 align="left">📝 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [计数系统](https://www.cubeyond.net/blog/assembly-notes/numeral-system/introduction)
 - [栈对齐](https://www.cubeyond.net/blog/pwn-notes/stack/return-oriented-programming/stack-alignment)
 - [eza CVE Report](https://www.cubeyond.net/blog/cve/eza-cve-report)
 - [ROP 和 Shellcode](https://www.cubeyond.net/blog/pwn-notes/stack/reliable-shellcode/rop-and-shellcode)
 - [RELRO](https://www.cubeyond.net/blog/pwn-notes/stack/relro)
-- [利用 GOT Overwrite](https://www.cubeyond.net/blog/pwn-notes/stack/got-overwrite/exploiting-a-got-overwrite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
