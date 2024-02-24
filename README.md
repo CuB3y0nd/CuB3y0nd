@@ -1,21 +1,14 @@
-<h1 align="center" >Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I am CuB3y0nd</h1>
+![hello](https://github.com/CuB3y0nd/CuB3y0nd/assets/91041570/39cb2514-636d-498f-bf5a-103b61e7728c)
 
-<p align="center">
-  <a href="https://www.cubeyond.net/">Blog</a> •
-  <a href="mailto:root@cubeyond.net">E-Mail</a>
-</p>
+### 🌴 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/CuB3y0nd/CuB3y0nd/main/images/pusheencode.gif" width=450>
+- ⭐️ ID: CuB3y0nd
+- 🧪 ROAL: PWNER
+- 🔭 TEAM: NO TEAM :(
+- 📫 E-Mail: [root@cubeyond.net](mailto:root@cubeyond.net)
+- 🎯 Portfolio: [CuB3y0nd's Portfolio](https://www.cubeyond.net/)
 
-<h3 align="left">💻 About Me</h3>
-
-- ID: CuB3y0nd
-- ROAL: PWNER
-- TEAM: NO TEAM :(
-- E-Mail: [root@cubeyond.net](mailto:root@cubeyond.net)
-- Blog: [CuB3y0nd's Blog](https://www.cubeyond.net/)
-
-<h3 align="left">📝 Latest Blog Posts</h3>
+### ☕ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [李忠《x86 汇编语言：从实模式到保护模式》（第二版）学习笔记](https://www.cubeyond.net/blog/assembly-notes/x86-learning-note)
@@ -25,13 +18,7 @@
 - [ROP 和 Shellcode](https://www.cubeyond.net/blog/pwn-notes/stack/reliable-shellcode/rop-and-shellcode)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-</div>
-
-<h3 align="left">📈 Contributions / Language stats</h3>
+### 📈 Contributions / Language stats
 
 <div align="center">
   <img src="https://github.com/CuB3y0nd/CuB3y0nd/blob/main/profile-3d-contrib/profile-green-animate.svg" />
