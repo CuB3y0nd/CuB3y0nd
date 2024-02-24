@@ -1,5 +1,9 @@
 ![hello](https://github.com/CuB3y0nd/CuB3y0nd/assets/91041570/39cb2514-636d-498f-bf5a-103b61e7728c)
 
+<div align="right">
+  <img width="50%" align="right" src="https://github.com/CuB3y0nd/CuB3y0nd/blob/main/profile-3d-contrib/profile-green-animate.svg" />
+</div>
+
 ### 🌴 About Me
 
 - ⭐️ ID: CuB3y0nd
@@ -17,12 +21,6 @@
 - [eza CVE Report](https://www.cubeyond.net/blog/cve/eza-cve-report)
 - [ROP 和 Shellcode](https://www.cubeyond.net/blog/pwn-notes/stack/reliable-shellcode/rop-and-shellcode)
 <!-- BLOG-POST-LIST:END -->
-
-### 📈 Contributions / Language stats
-
-<div align="center">
-  <img src="https://github.com/CuB3y0nd/CuB3y0nd/blob/main/profile-3d-contrib/profile-green-animate.svg" />
-</div>
 
 <p align="right">
   <img
