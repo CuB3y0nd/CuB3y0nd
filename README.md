@@ -24,9 +24,9 @@
   <img src="https://github.com/CuB3y0nd/CuB3y0nd/blob/main/profile-3d-contrib/profile-green-animate.svg" />
 </div>
 
-<p align="center">
+<p align="right">
   <img
-    src="https://komarev.com/ghpvc/?username=CuB3y0nd"
+    src="https://komarev.com/ghpvc/?username=CuB3y0nd&style=flat-square&abbreviated=true"
     alt="CuB3y0nd"
   />
 </p>
