@@ -18,6 +18,10 @@
 - [ROP 和 Shellcode](https://www.cubeyond.net/blog/pwn-notes/stack/reliable-shellcode/rop-and-shellcode)
 <!-- BLOG-POST-LIST:END -->
 
+### :checkered_flag: My CVEs
+
+ - CVE-2024-25817
+
 ### :chart_with_upwards_trend: Contributions / Language stats
 
 <div align="center">
