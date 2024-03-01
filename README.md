@@ -14,7 +14,7 @@
 - [李忠《x86 汇编语言：从实模式到保护模式》（第二版）学习笔记](https://www.cubeyond.net/blog/assembly-notes/x86-learning-note)
 - [计数系统](https://www.cubeyond.net/blog/assembly-notes/numeral-system/introduction)
 - [栈对齐](https://www.cubeyond.net/blog/pwn-notes/stack/return-oriented-programming/stack-alignment)
-- [eza CVE Report](https://www.cubeyond.net/blog/cve/eza-cve-report)
+- [CVE-2024-25817](https://www.cubeyond.net/blog/my-cves/eza-cve-report)
 - [ROP 和 Shellcode](https://www.cubeyond.net/blog/pwn-notes/stack/reliable-shellcode/rop-and-shellcode)
 <!-- BLOG-POST-LIST:END -->
 
