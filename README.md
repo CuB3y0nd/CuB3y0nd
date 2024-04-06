@@ -12,11 +12,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Avolve Part-3](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt3)
 - [Avolve Part-2](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt2)
 - [Avolve Part-1](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt1)
 - [微积分笔记](https://www.cubeyond.net/blog/mathematics/calculus-notes)
 - [李忠《x86 汇编语言：从实模式到保护模式》（第二版）学习笔记](https://www.cubeyond.net/blog/assembly-notes/x86-learning-note)
-- [计数系统](https://www.cubeyond.net/blog/assembly-notes/numeral-system/introduction)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
