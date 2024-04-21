@@ -39,6 +39,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
 ![Qemu](https://img.shields.io/badge/-Qemu-333333?style=flat-square&logo=qemu)
+![Polars](https://img.shields.io/badge/Polars-333333?style=flat-square&logo=polars)
 ![SurrealDB](https://img.shields.io/badge/-SurrealDB-333333?style=flat-square&logo=surrealdb)
 
 ### :chart_with_upwards_trend: Contributions / Language stats
