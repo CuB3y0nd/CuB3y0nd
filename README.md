@@ -23,7 +23,7 @@
 
  - [CVE-2024-25817](https://www.cve.org/CVERecord?id=CVE-2024-25817): Buffer Overflow vulnerability in `eza` before version `0.18.2`, allows local attackers to execute arbitrary code via the `.git/HEAD`, `.git/refs`, and `.git/objects` components.
 
-### Tech Stack & Tools
+### :zap: Tech Stack & Tools
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=c)
 ![x86asm](https://img.shields.io/badge/-x86asm-333333?style=flat-square&logo=asm)
