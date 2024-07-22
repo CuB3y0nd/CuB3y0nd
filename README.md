@@ -16,7 +16,7 @@
 - [Avolve Part-2](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt2)
 - [Avolve Part-1](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt1)
 - [微积分笔记](https://www.cubeyond.net/blog/mathematics/calculus-notes)
-- [PWN 基础](https://www.cubeyond.net/blog/assembly-notes/x86-learning-note)
+- [PWN 基础](https://www.cubeyond.net/blog/pwn-notes/pwn-basics)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
