@@ -12,11 +12,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Writeup: CSAW 2019 beleaf](https://www.cubeyond.net/blog/writeups/csaw19-beleaf)
 - [Avolve Part-3](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt3)
 - [Avolve Part-2](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt2)
 - [Avolve Part-1](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt1)
 - [微积分笔记](https://www.cubeyond.net/blog/mathematics/calculus-notes)
-- [PWN 基础](https://www.cubeyond.net/blog/pwn-notes/pwn-basics)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
