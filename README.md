@@ -12,7 +12,7 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Writeup: CSAW 2019 beleaf](https://www.cubeyond.net/blog/writeups/csaw19-beleaf)
+- [Writeups: Nightmare Series](https://www.cubeyond.net/blog/writeups/nightmare-series)
 - [Avolve Part-3](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt3)
 - [Avolve Part-2](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt2)
 - [Avolve Part-1](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt1)
