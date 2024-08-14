@@ -13,10 +13,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Writeups: Nightmare Series](https://www.cubeyond.net/blog/writeups/nightmare-series)
-- [Avolve Part-3](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt3)
-- [Avolve Part-2](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt2)
-- [Avolve Part-1](https://www.cubeyond.net/blog/avolve/learning-to-fly-pt1)
 - [微积分笔记](https://www.cubeyond.net/blog/mathematics/calculus-notes)
+- [PWN 基础](https://www.cubeyond.net/blog/pwn-notes/pwn-basics)
+- [计数系统](https://www.cubeyond.net/blog/assembly-notes/numeral-system/introduction)
+- [栈对齐](https://www.cubeyond.net/blog/pwn-notes/stack/return-oriented-programming/stack-alignment)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
