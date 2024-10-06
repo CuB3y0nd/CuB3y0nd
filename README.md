@@ -31,7 +31,6 @@
 ![GNU Bash](https://img.shields.io/badge/-GNU_Bash-333333?style=flat-square&logo=gnubash)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat-square&logo=rust)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=oracle)
 ![MDX](https://img.shields.io/badge/-MDX-333333?style=flat-square&logo=mdx)
 ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat-square&logo=latex)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat-square&logo=archlinux)
