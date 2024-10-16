@@ -1,6 +1,6 @@
 ![hello](https://github.com/CuB3y0nd/CuB3y0nd/assets/91041570/39cb2514-636d-498f-bf5a-103b61e7728c)
 
-### :jack_o_lantern: About Me
+### :jack_o_lantern: TL;DR
 
 - :cn: ID: CuB3y0nd
 - :test_tube: ROAL: PWNER
