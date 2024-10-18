@@ -6,7 +6,7 @@
 - :test_tube: ROAL: PWNER
 - :tent: TEAM: NO TEAM :(
 - :mailbox_with_mail: E-Mail: [root@cubeyond.net](mailto:root@cubeyond.net)
-- :dart: Portfolio: [CuB3y0nd's Portfolio](https://www.cubeyond.net/)
+- :dart: Portfolio: [assembly.rip](https://assembly.rip/)
 - :baby_chick: Personality: INFP-A 1w9
 
 ### :coffee: Latest Blog Posts
