@@ -26,11 +26,12 @@
 ### :zap: Tech Stack & Tools
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=c)
-![x86asm](https://img.shields.io/badge/-x86asm-333333?style=flat-square&logo=asm)
+![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat-square&logo=pastebin)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
 ![GNU Bash](https://img.shields.io/badge/-GNU_Bash-333333?style=flat-square&logo=gnubash)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat-square&logo=rust)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript)
 ![MDX](https://img.shields.io/badge/-MDX-333333?style=flat-square&logo=mdx)
 ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat-square&logo=latex)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat-square&logo=archlinux)
