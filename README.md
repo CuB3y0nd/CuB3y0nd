@@ -5,9 +5,11 @@
 - :cn: ID: CuB3y0nd
 - :test_tube: ROAL: PWNER
 - :tent: TEAM: NO TEAM :(
-- :mailbox_with_mail: E-Mail: [root@cubeyond.net](mailto:root@cubeyond.net)
-- :dart: Portfolio: [assembly.rip](https://assembly.rip/)
 - :baby_chick: Personality: INFP-A 1w9
+- :mailbox_with_mail: E-Mail: [root@cubeyond.net](mailto:root@cubeyond.net)
+- :key: GPG Key: [Download GPG Key](https://assembly.rip/public.key)
+- :dart: Portfolio: [assembly.rip](https://assembly.rip/)
+
 
 ### :coffee: Latest Blog Posts
 
