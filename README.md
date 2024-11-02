@@ -14,11 +14,10 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Writeups: Nightmare Series](https://www.cubeyond.net/blog/writeups/nightmare-series)
-- [微积分笔记](https://www.cubeyond.net/blog/mathematics/calculus-notes)
-- [PWN 基础](https://www.cubeyond.net/blog/pwn-notes/pwn-basics)
-- [计数系统](https://www.cubeyond.net/blog/assembly-notes/numeral-system/introduction)
-- [栈对齐](https://www.cubeyond.net/blog/pwn-notes/stack/return-oriented-programming/stack-alignment)
+- [WriteUps: Nightmare Series](https://assembly.rip/posts/writeups/nightmare-series/)
+- [微积分笔记](https://assembly.rip/posts/mathematics/calculus-notes/)
+- [CVE-2024-25817](https://assembly.rip/posts/my-cves/eza-cve-report/)
+- [Arch Linux + Bspwm 配置小记](https://assembly.rip/posts/linux/archlinux-configure-note/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
