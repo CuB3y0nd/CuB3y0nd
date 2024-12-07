@@ -14,11 +14,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Write-ups: pwn.college series](https://assembly.rip/posts/write-ups/pwncollege-series/)
-- [Write-ups: Nightmare series](https://assembly.rip/posts/write-ups/nightmare-series/)
-- [微积分笔记](https://assembly.rip/posts/mathematics/calculus-notes/)
-- [CVE-2024-25817](https://assembly.rip/posts/my-cves/eza-cve-report/)
-- [Arch Linux + Bspwm 配置小记](https://assembly.rip/posts/linux/archlinux-configure-note/)
+- [Write-ups: pwn.college series](https://assembly.rip/posts/write-ups/pwncollege-series.md/)
+- [Write-ups: Nightmare series](https://assembly.rip/posts/write-ups/nightmare-series.md/)
+- [微积分笔记](https://assembly.rip/posts/mathematics/calculus-notes.md/)
+- [CVE-2024-25817](https://assembly.rip/posts/my-cves/eza-cve-report.md/)
+- [Arch Linux + Bspwm 配置小记](https://assembly.rip/posts/linux/archlinux-configure-note.md/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
