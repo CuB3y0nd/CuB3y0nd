@@ -14,7 +14,7 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Write-ups: Program Security &lpar;Shellcode Injection&rpar; series](https://assembly.rip/posts/shellcode-injection/)
+- [Write-ups: Program Security &lpar;Shellcode Injection&rpar; series &lpar;Completed&rpar;](https://assembly.rip/posts/shellcode-injection/)
 - [Write-ups: Program Security &lpar;Memory Errors&rpar; series &lpar;Completed&rpar;](https://assembly.rip/posts/memory-errors/)
 - [Write-ups: Nightmare series](https://assembly.rip/posts/nightmare-series/)
 - [微积分笔记](https://assembly.rip/posts/calculus-notes/)
