@@ -14,11 +14,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Write-ups: Program Security &lpar;Program Exploitation&rpar; series](https://assembly.rip/posts/program-exploitation/)
 - [Write-ups: Program Security &lpar;Shellcode Injection&rpar; series &lpar;Completed&rpar;](https://assembly.rip/posts/shellcode-injection/)
 - [Write-ups: Program Security &lpar;Memory Errors&rpar; series &lpar;Completed&rpar;](https://assembly.rip/posts/memory-errors/)
 - [Write-ups: Nightmare series](https://assembly.rip/posts/nightmare-series/)
 - [微积分笔记](https://assembly.rip/posts/calculus-notes/)
-- [CVE-2024-25817](https://assembly.rip/posts/eza-cve-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
