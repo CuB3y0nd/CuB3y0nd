@@ -14,11 +14,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Write-ups: Program Security &lpar;Return Oriented Programming&rpar; series](https://assembly.rip/posts/return-oriented-programming/)
 - [2024 年终总结](https://assembly.rip/posts/2024-wrap-up/)
 - [Write-ups: Program Security &lpar;Program Exploitation&rpar; series &lpar;Completed&rpar;](https://assembly.rip/posts/program-exploitation/)
 - [Write-ups: Program Security &lpar;Shellcode Injection&rpar; series &lpar;Completed&rpar;](https://assembly.rip/posts/shellcode-injection/)
 - [Write-ups: Program Security &lpar;Memory Errors&rpar; series &lpar;Completed&rpar;](https://assembly.rip/posts/memory-errors/)
-- [Write-ups: Nightmare series](https://assembly.rip/posts/nightmare-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
