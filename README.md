@@ -14,7 +14,7 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Special topic: Tricky tricks summary for Pwn](https://assembly.rip/posts/pwn-notes/)
+- [Special Topic: Tricky tricks summary for Pwn](https://assembly.rip/posts/pwn-notes/)
 - [Write-ups: ROP Emporium series](https://assembly.rip/posts/rop-emporium-series/)
 - [Write-ups: Software Exploitation &lpar;Format String Exploits&rpar; series](https://assembly.rip/posts/format-string-exploits/)
 - [Write-ups: Program Security &lpar;Dynamic Allocator Misuse&rpar; series](https://assembly.rip/posts/dynamic-allocator-misuse/)
