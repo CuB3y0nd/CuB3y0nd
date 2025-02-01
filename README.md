@@ -14,11 +14,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Write-ups: ROP Emporium series](https://assembly.rip/posts/rop-emporium-series/)
 - [Write-ups: Software Exploitation &lpar;Format String Exploits&rpar; series](https://assembly.rip/posts/format-string-exploits/)
 - [Write-ups: Program Security &lpar;Dynamic Allocator Misuse&rpar; series](https://assembly.rip/posts/dynamic-allocator-misuse/)
 - [Write-ups: Program Security &lpar;Return Oriented Programming&rpar; series &lpar;Completed&rpar;](https://assembly.rip/posts/return-oriented-programming/)
 - [2024 年终总结](https://assembly.rip/posts/2024-wrap-up/)
-- [Write-ups: Program Security &lpar;Program Exploitation&rpar; series &lpar;Completed&rpar;](https://assembly.rip/posts/program-exploitation/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
