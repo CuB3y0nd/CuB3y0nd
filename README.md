@@ -14,11 +14,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes: Pwn heap fundamental knowledge](https://assembly.rip/posts/pwn-heap-notes/)
 - [Special Topic: Tricky tricks summary for Pwn](https://assembly.rip/posts/pwn-trick-notes/)
 - [Write-ups: ROP Emporium series](https://assembly.rip/posts/rop-emporium-series/)
 - [Write-ups: Software Exploitation &lpar;Format String Exploits&rpar; series](https://assembly.rip/posts/format-string-exploits/)
 - [Write-ups: Program Security &lpar;Dynamic Allocator Misuse&rpar; series](https://assembly.rip/posts/dynamic-allocator-misuse/)
-- [Write-ups: Program Security &lpar;Return Oriented Programming&rpar; series &lpar;Completed&rpar;](https://assembly.rip/posts/return-oriented-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
