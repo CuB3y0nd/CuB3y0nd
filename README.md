@@ -35,7 +35,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript)
 ![MDX](https://img.shields.io/badge/-MDX-333333?style=flat-square&logo=mdx)
-![LaTeX](https://img.shields.io/badge/-LaTex-333333?style=flat-square&logo=latex)
+![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat-square&logo=latex)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat-square&logo=archlinux)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-333333?style=flat-square&logo=neovim)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
