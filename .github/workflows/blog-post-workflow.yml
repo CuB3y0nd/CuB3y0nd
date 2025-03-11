@@ -16,4 +16,4 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://assembly.rip/atom.xml"
+          feed_list: "https://www.assembly.rip/rss.xml"
