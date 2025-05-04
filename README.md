@@ -15,7 +15,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Exordium Operating System Development Notes](https://assembly.rip/posts/projects/exordium-operation-system/)
-- [Notes: Pwn heap fundamental knowledges](https://assembly.rip/posts/pwn-notes/pwn-heap-notes/)
+- [Notes: Pwn heap fundamental knowledge](https://assembly.rip/posts/pwn-notes/pwn-heap-notes/)
 - [Special Topic: Tricky tricks summary for Pwn](https://assembly.rip/posts/pwn-notes/pwn-trick-notes/)
 - [Write-ups: ROP Emporium series](https://assembly.rip/posts/write-ups/rop-emporium-series/)
 - [Write-ups: Software Exploitation &lpar;Format String Exploits&rpar; series](https://assembly.rip/posts/write-ups/pwncollege-format-string-exploits/)
