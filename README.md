@@ -4,7 +4,7 @@
 
 - :cn: ID: CuB3y0nd
 - :test_tube: ROAL: PWNER
-- :tent: TEAM: NO TEAM YET :(
+- :tent: TEAM: [RaptX](https://raptx.org/)
 - :baby_chick: Personality: INTJ-A 5w4 tritype 513
 - :mailbox_with_mail: E-Mail: [root@cubeyond.net](mailto:root@cubeyond.net)
 - :key: GPG Key: [Download GPG Key](https://assembly.rip/public.key)
