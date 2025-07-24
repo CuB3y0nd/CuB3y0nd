@@ -14,11 +14,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Write-ups: HackTheBox](https://assembly.rip/posts/write-ups/hackthebox-pwn-challenges/)
 - [The C Notebook](https://assembly.rip/posts/programming-language/c/)
 - [The CSAPP Notebook](https://assembly.rip/posts/cs-notes/csapp/)
 - [Write-ups: BUUCTF](https://assembly.rip/posts/write-ups/buuctf/)
 - [Exordium Operating System Development Notes](https://assembly.rip/posts/projects/exordium-operation-system/)
-- [Notes: Pwn heap fundamental knowledge](https://assembly.rip/posts/pwn-notes/pwn-heap-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
