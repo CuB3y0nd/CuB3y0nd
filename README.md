@@ -29,10 +29,8 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=c)
 ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat-square&logo=pastebin)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
-![GNU Bash](https://img.shields.io/badge/-GNU_Bash-333333?style=flat-square&logo=gnubash)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat-square&logo=rust)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript)
+![GNU Bash](https://img.shields.io/badge/-GNU_Bash-333333?style=flat-square&logo=gnubash)
 ![MDX](https://img.shields.io/badge/-MDX-333333?style=flat-square&logo=mdx)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat-square&logo=latex)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat-square&logo=archlinux)
@@ -40,8 +38,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
 ![Qemu](https://img.shields.io/badge/-Qemu-333333?style=flat-square&logo=qemu)
-![Polars](https://img.shields.io/badge/Polars-333333?style=flat-square&logo=polars)
-![SurrealDB](https://img.shields.io/badge/-SurrealDB-333333?style=flat-square&logo=surrealdb)
 
 ### :chart_with_upwards_trend: Contributions / Language stats
 
