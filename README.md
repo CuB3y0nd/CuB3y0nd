@@ -13,11 +13,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Write-ups: Program Security &lpar;Dynamic Allocator Misuse&rpar; series](https://assembly.rip/posts/write-ups/pwncollege-dynamic-allocator-misuse/)
 - [Write-ups: Nullcon Berlin HackIM 2025 CTF](https://assembly.rip/posts/write-ups/nullcon-ctf-2025/)
 - [Dynabox: 跨平台 glibc 编译，调试相关问题的统一解决方案](https://assembly.rip/posts/projects/dynabox/)
 - [Write-ups: HackTheBox](https://assembly.rip/posts/write-ups/hackthebox-pwn-challenges/)
 - [The C Notebook](https://assembly.rip/posts/programming-language/c/)
-- [The CSAPP Notebook](https://assembly.rip/posts/cs-notes/csapp/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
