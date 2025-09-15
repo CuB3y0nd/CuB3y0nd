@@ -13,11 +13,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Write-ups: CSAW&#39;25 CTF Qualification Round](https://cubeyond.net/posts/write-ups/csaw-25-quals/)
 - [Write-ups: Program Security &lpar;Dynamic Allocator Misuse&rpar; series](https://cubeyond.net/posts/write-ups/pwncollege-dynamic-allocator-misuse/)
 - [Write-ups: Nullcon Berlin HackIM 2025 CTF](https://cubeyond.net/posts/write-ups/nullcon-ctf-2025/)
 - [Dynabox: 跨平台 glibc 编译，调试相关问题的统一解决方案](https://cubeyond.net/posts/projects/dynabox/)
 - [Write-ups: HackTheBox](https://cubeyond.net/posts/write-ups/hackthebox-pwn-challenges/)
-- [The C Notebook](https://cubeyond.net/posts/programming-language/c/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
