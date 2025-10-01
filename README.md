@@ -13,11 +13,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [分岔的森林：angr 符号执行札记](https://cubeyond.net/posts/pwn-notes/angr/)
 - [Write-ups: Sunshine CTF 2025](https://cubeyond.net/posts/write-ups/sunshinectf-2025/)
 - [无 gadgets 也能翻盘：ret2gets 能否成为核武器？](https://cubeyond.net/posts/pwn-notes/ret2gets/)
 - [CHOP Suey: 端上异常处理的攻击盛宴](https://cubeyond.net/posts/pwn-notes/catch-handler-oriented-programming-notes/)
 - [Write-ups: 2024「羊城杯」粤港澳大湾区网络安全大赛](https://cubeyond.net/posts/write-ups/2024-%E7%BE%8A%E5%9F%8E%E6%9D%AF/)
-- [Write-ups: 2025 年江苏省第七届大学生网络空间安全知识技能大赛预赛](https://cubeyond.net/posts/write-ups/2025-%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%AC%AC%E4%B8%83%E5%B1%8A%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E7%9F%A5%E8%AF%86%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B5%9B%E9%A2%84%E8%B5%9B/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
