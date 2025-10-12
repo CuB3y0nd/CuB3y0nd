@@ -13,11 +13,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Write-ups: 2025 年「羊城杯」网络安全大赛初赛 [本科院校组]](https://cubeyond.net/posts/write-ups/2025-%E7%BE%8A%E5%9F%8E%E6%9D%AF/)
 - [屋宇之术：Labyrinth of Houses](https://cubeyond.net/posts/pwn-notes/labyrinth-of-houses/)
 - [Write-ups: Securinets CTF Quals 2025](https://cubeyond.net/posts/write-ups/securinets-ctf-quals-2025/)
 - [分岔的森林：angr 符号执行札记](https://cubeyond.net/posts/pwn-notes/angr/)
 - [Write-ups: Sunshine CTF 2025](https://cubeyond.net/posts/write-ups/sunshinectf-2025/)
-- [无 gadgets 也能翻盘：ret2gets 能否成为核武器？](https://cubeyond.net/posts/pwn-notes/ret2gets/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
