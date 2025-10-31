@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Write-ups: 第八届「强网」拟态防御国际精英挑战赛-线上预选赛](https://cubeyond.net/posts/write-ups/2025-%E7%AC%AC%E5%85%AB%E5%B1%8A%E5%BC%BA%E7%BD%91%E6%8B%9F%E6%80%81/)
 - [Write-ups: 第九届「强网杯」全国网络安全挑战赛](https://cubeyond.net/posts/write-ups/2025-%E5%BC%BA%E7%BD%91%E6%9D%AF-s9/)
-- [Write-ups: Software Exploitation &lpar;Dynamic Allocator Exploitation&rpar; series](https://cubeyond.net/posts/write-ups/pwncollege-dynamic-allocator-exploitation/)
+- [Write-ups: Software Exploitation &lpar;Dynamic Allocator Exploitation&rpar; series &lpar;Completed&rpar;](https://cubeyond.net/posts/write-ups/pwncollege-dynamic-allocator-exploitation/)
 - [Write-ups: 2025 年「羊城杯」网络安全大赛初赛 [本科院校组]](https://cubeyond.net/posts/write-ups/2025-%E7%BE%8A%E5%9F%8E%E6%9D%AF/)
 - [屋宇之术：Labyrinth of Houses](https://cubeyond.net/posts/pwn-notes/labyrinth-of-houses/)
 <!-- BLOG-POST-LIST:END -->
