@@ -14,7 +14,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Write-ups: BlackHat MEA CTF Final 2025](https://cubeyond.net/posts/write-ups/blackhat-mea-ctf-final-2025/)
-- [Write-ups: Software Exploitation &lpar;Exploitation Primitives&rpar; series](https://cubeyond.net/posts/write-ups/pwncollege-memory-mastery/)
+- [Write-ups: Software Exploitation &lpar;Exploitation Primitives&rpar; series &lpar;Completed&rpar;](https://cubeyond.net/posts/write-ups/pwncollege-memory-mastery/)
 - [Sapido RB-1732 路由器 RCE 漏洞](https://cubeyond.net/posts/iot/rce-sapido_rb-1732/)
 - [Write-ups: Software Exploitation &lpar;File Struct Exploits&rpar; series &lpar;Completed&rpar;](https://cubeyond.net/posts/write-ups/pwncollege-file-struct-exploits/)
 - [Write-ups: 第八届「强网」拟态防御国际精英挑战赛-线上预选赛](https://cubeyond.net/posts/write-ups/2025-%E7%AC%AC%E5%85%AB%E5%B1%8A%E5%BC%BA%E7%BD%91%E6%8B%9F%E6%80%81/)
