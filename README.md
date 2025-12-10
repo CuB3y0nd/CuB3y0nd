@@ -2,7 +2,6 @@
 
 ### :jack_o_lantern: TL;DR
 
-- :cn: ID: CuB3y0nd
 - :test_tube: ROAL: PWNER
 - :baby_chick: Personality: INTJ-A 5w4 tritype 513
 - :mailbox_with_mail: E-Mail: [root -at- cubeyond -dot- net](mailto:root@cubeyond.net)
