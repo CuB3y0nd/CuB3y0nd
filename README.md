@@ -12,11 +12,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cross-ISAs Notebook](https://cubeyond.net/posts/cs-notes/cross-isas/)
 - [2025 年终总结](https://cubeyond.net/posts/year-end-wrap-ups/2025-wrap-up/)
 - [Write-ups: System Security &lpar;Kernel Security&rpar; series &lpar;Completed&rpar;](https://cubeyond.net/posts/write-ups/pwncollege-kernel-security/)
 - [Write-ups: BlackHat MEA CTF Final 2025](https://cubeyond.net/posts/write-ups/blackhat-mea-ctf-final-2025/)
 - [Write-ups: Software Exploitation &lpar;Exploitation Primitives&rpar; series &lpar;Completed&rpar;](https://cubeyond.net/posts/write-ups/pwncollege-memory-mastery/)
-- [Sapido RB-1732 路由器 RCE 漏洞](https://cubeyond.net/posts/iot/rce-sapido_rb-1732/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
