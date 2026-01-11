@@ -12,11 +12,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Write-ups: ARM Architecture &lpar;ARM64 ROP&rpar; series](https://cubeyond.net/posts/write-ups/pwncollege-arm-rop/)
 - [The Cross-ISAs Notebook](https://cubeyond.net/posts/cs-notes/cross-isas/)
 - [2025 年终总结](https://cubeyond.net/posts/year-end-wrap-ups/2025-wrap-up/)
 - [Write-ups: System Security &lpar;Kernel Security&rpar; series &lpar;Completed&rpar;](https://cubeyond.net/posts/write-ups/pwncollege-kernel-security/)
 - [Write-ups: BlackHat MEA CTF Final 2025](https://cubeyond.net/posts/write-ups/blackhat-mea-ctf-final-2025/)
-- [Write-ups: Software Exploitation &lpar;Exploitation Primitives&rpar; series &lpar;Completed&rpar;](https://cubeyond.net/posts/write-ups/pwncollege-memory-mastery/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
