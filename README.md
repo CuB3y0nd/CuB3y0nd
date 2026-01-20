@@ -12,11 +12,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [此地不宜调试](https://cubeyond.net/posts/write-ups/fengshui/)
 - [梅花易数札记](https://cubeyond.net/posts/divination/%E6%A2%85%E8%8A%B1%E6%98%93%E6%95%B0/)
 - [Write-ups: ARM Architecture &lpar;ARM64 ROP&rpar; series](https://cubeyond.net/posts/write-ups/pwncollege-arm-rop/)
 - [The Cross-ISAs Notebook](https://cubeyond.net/posts/cs-notes/cross-isas/)
 - [2025 年终总结](https://cubeyond.net/posts/year-end-wrap-ups/2025-wrap-up/)
-- [Write-ups: System Security &lpar;Kernel Security&rpar; series &lpar;Completed&rpar;](https://cubeyond.net/posts/write-ups/pwncollege-kernel-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
