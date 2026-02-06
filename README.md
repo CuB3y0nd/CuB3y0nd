@@ -12,11 +12,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Write-ups: Pwnable.tw](https://cubeyond.net/posts/write-ups/pwnable-tw/)
 - [Write-ups: System Security &lpar;Microarchitecture Exploitation&rpar; series](https://cubeyond.net/posts/write-ups/pwncollege-microarchitecture-exploitation/)
 - [Intel Control-flow Enforcement Technology Bypass](https://cubeyond.net/posts/pwn-notes/intel-cet-bypass/)
 - [Write-ups: 0xL4ugh CTF v5](https://cubeyond.net/posts/write-ups/0xl4ugh-ctf-v5/)
 - [此地不宜调试](https://cubeyond.net/posts/write-ups/fengshui/)
-- [梅花易数札记](https://cubeyond.net/posts/divination/%E6%A2%85%E8%8A%B1%E6%98%93%E6%95%B0/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
