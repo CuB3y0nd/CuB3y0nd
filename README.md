@@ -12,11 +12,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2019-13288: Xpdf](https://cubeyond.net/posts/fuzz/xpdf-cve-2019-13288/)
 - [The Fuzzy Notebook](https://cubeyond.net/posts/fuzz/aflplusplus/)
 - [Write-ups: Pwnable.tw](https://cubeyond.net/posts/write-ups/pwnable-tw/)
 - [Write-ups: System Security &lpar;Microarchitecture Exploitation&rpar; series](https://cubeyond.net/posts/write-ups/pwncollege-microarchitecture-exploitation/)
 - [Intel Control-flow Enforcement Technology Bypass](https://cubeyond.net/posts/pwn-notes/intel-cet-bypass/)
-- [Write-ups: 0xL4ugh CTF v5](https://cubeyond.net/posts/write-ups/0xl4ugh-ctf-v5/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
