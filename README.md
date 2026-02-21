@@ -33,7 +33,7 @@
 ![GNU Bash](https://img.shields.io/badge/-GNU_Bash-333333?style=flat-square&logo=gnubash)
 ![MDX](https://img.shields.io/badge/-MDX-333333?style=flat-square&logo=mdx)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat-square&logo=latex)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat-square&logo=archlinux)
+![Gentoo](https://img.shields.io/badge/-Gentoo-333333?style=flat-square&logo=gentoo)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-333333?style=flat-square&logo=neovim)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
