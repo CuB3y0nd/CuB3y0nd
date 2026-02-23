@@ -2,10 +2,10 @@
 
 ### :jack_o_lantern: TL;DR
 
-- :test_tube: ROAL: PWNER
+- :test_tube: Roal: Pwner
 - :baby_chick: Personality: INTJ-A 5w4 tritype 513
 - :mailbox_with_mail: E-Mail: [root -at- cubeyond -dot- net](mailto:root@cubeyond.net)
-- :key: GPG Key: [Download GPG Key](https://www.cubeyond.net/public.key)
+- :key: Public Key: [Probably harmless.](https://www.cubeyond.net/recipient.pub)
 - :dart: Portfolio: [cubeyond.net](https://www.cubeyond.net/)
 
 
