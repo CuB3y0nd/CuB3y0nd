@@ -13,11 +13,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2016-9297: LibTIFF](https://cubeyond.net/posts/fuzz/libtiff-cve-2016-9297/)
 - [CVE-2017-13028: TCPdump](https://cubeyond.net/posts/fuzz/tcpdump-cve-2017-13028/)
 - [Fuzz two legacy CVEs in libexif](https://cubeyond.net/posts/fuzz/libexif/)
 - [CVE-2019-13288: Xpdf](https://cubeyond.net/posts/fuzz/xpdf-cve-2019-13288/)
 - [The Fuzzy Notebook](https://cubeyond.net/posts/fuzz/aflplusplus/)
-- [Write-ups: Pwnable.tw](https://cubeyond.net/posts/write-ups/pwnable-tw/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
