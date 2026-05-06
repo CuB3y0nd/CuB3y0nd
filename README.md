@@ -2,7 +2,7 @@
 
 ### :jack_o_lantern: TL;DR
 
-- :test_tube: Roal: Retired Pwner & Researcher [@RaptX](https://raptx.org/)
+- :test_tube: Role: Retired Pwner & Researcher [@RaptX](https://raptx.org/)
 - :mailbox_with_mail: E-Mail: [root -at- cubeyond -dot- net](mailto:root@cubeyond.net)
 - :stars: Discord: `CuB3y0nd#6307`
 - :boat: Matrix: `@cub3y0nd:matrix.org`
