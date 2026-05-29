@@ -13,11 +13,11 @@
 ### :coffee: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2017-9048: libxml2](https://cubeyond.net/posts/fuzz/libxml2-cve-2017-9048/)
-- [CVE-2016-9297: LibTIFF](https://cubeyond.net/posts/fuzz/libtiff-cve-2016-9297/)
-- [CVE-2017-13028: TCPdump](https://cubeyond.net/posts/fuzz/tcpdump-cve-2017-13028/)
-- [Fuzz two legacy CVEs in libexif](https://cubeyond.net/posts/fuzz/libexif/)
-- [CVE-2019-13288: Xpdf](https://cubeyond.net/posts/fuzz/xpdf-cve-2019-13288/)
+- [NETGEAR EXS27 NGR LAN-side Pre-auth Command Injection in llmnrd via LLMNR Query Name](https://www.cubeyond.net/volume/0/netgear-exs27-4/)
+- [ANSI Ink for Philes](https://www.cubeyond.net/volume/3/ansi-ink-phile/)
+- [NETGEAR EXS27 NGR Pre-auth Administrator Takeover Chained to Root SSH Shell via Configuration Restore](https://www.cubeyond.net/volume/0/netgear-exs27-2/)
+- [NETGEAR EXS27 NGR Pre-auth debug.cgi Archive Sensitive Information Disclosure](https://www.cubeyond.net/volume/0/netgear-exs27-3/)
+- [Let&#39;s Decrypt NETGEAR EXS27 NGR Firmware V1.0.1.34!](https://www.cubeyond.net/volume/0/netgear-exs27-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
