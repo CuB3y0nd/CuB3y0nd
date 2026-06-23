@@ -22,8 +22,8 @@
 
 ### :checkered_flag: My CVEs
 
- - [CVE-2024-25817](https://www.cve.org/CVERecord?id=CVE-2024-25817): Buffer Overflow vulnerability in `eza` before version `0.18.2`, allows local attackers to execute arbitrary code via the `.git/HEAD`, `.git/refs`, and `.git/objects` components.
- - [CVE-2025-60939](https://www.cve.org/CVERecord?id=CVE-2025-60939): Spotify Client Denial of Service vulnerability via a crafted network packet.
+ - [CVE-2024-25817](https://www.cve.org/CVERecord?id=CVE-2024-25817): eza buffer overflow via `.git` metadata
+ - [CVE-2025-60939](https://www.cve.org/CVERecord?id=CVE-2025-60939): Spotify Client Denial of Service
  - [CVE-2026-56113](https://www.cve.org/CVERecord?id=CVE-2026-56113): DHCPv6 PD RENEW Use-After-Free
  - [CVE-2026-56114](https://www.cve.org/CVERecord?id=CVE-2026-56114): DHCPv6 PD Exclude Stack OOB Write
  - [CVE-2026-56115](https://www.cve.org/CVERecord?id=CVE-2026-56115): IPv6 RA RouteInfo Memory Leak
