@@ -27,6 +27,8 @@
  - [CVE-2026-56114](https://www.cve.org/CVERecord?id=CVE-2026-56114): DHCPv6 PD Exclude Stack OOB Write
  - [CVE-2026-56116](https://www.cve.org/CVERecord?id=CVE-2026-56116): IPv6 RA RouteInfo Memory Leak
  - [CVE-2026-56117](https://www.cve.org/CVERecord?id=CVE-2026-56117): Control Socket Use-After-Free
+ - [CVE-2026-58458](https://www.cve.org/CVERecord?id=CVE-2026-58458): Don't Starve Together Public Lobby Client DoS
+ - [CVE-2026-58459](https://www.cve.org/CVERecord?id=CVE-2026-58459): GPSD gpsprof gnuplot Command Injection
 
 ### :zap: Tech Stack & Tools
 
