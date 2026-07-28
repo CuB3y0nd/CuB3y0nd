@@ -28,8 +28,9 @@
  - [CVE-2026-56116](https://www.cve.org/CVERecord?id=CVE-2026-56116): IPv6 RA RouteInfo Memory Leak
  - [CVE-2026-56117](https://www.cve.org/CVERecord?id=CVE-2026-56117): Control Socket Use-After-Free
  - [CVE-2026-58458](https://www.cve.org/CVERecord?id=CVE-2026-58458): Don't Starve Together Public Lobby Client DoS
- - [CVE-2026-58459](https://www.cve.org/CVERecord?id=CVE-2026-58459): GPSD gpsprof gnuplot Command Injection
+ - [CVE-2026-58459](https://www.cve.org/CVERecord?id=CVE-2026-58459): GPSd gpsprof gnuplot Command Injection via GPS Metadata
  - [CVE-2026-61702](https://www.cve.org/CVERecord?id=CVE-2026-61702): cups Root-side Banner File Disclosure
+ - [CVE-2026-60122](https://www.cve.org/CVERecord?id=CVE-2026-60122): GPSd gpsprof Code Injection via SKY.satellites used Field
 
 ### :zap: Tech Stack & Tools
 
