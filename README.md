@@ -1,4 +1,5 @@
 ![hello](https://github.com/CuB3y0nd/CuB3y0nd/assets/91041570/39cb2514-636d-498f-bf5a-103b61e7728c)
+![profile_views](https://komarev.com/ghpvc/?username=CuB3y0nd&style=pixel)
 
 ### :jack_o_lantern: TL;DR
 
@@ -7,7 +8,6 @@
 - :stars: Discord: `CuB3y0nd#6307`
 - :key: Public Key: [Probably harmless.](https://www.cubeyond.net/key.asc)
 - :dart: Portfolio: [cubeyond.net](https://www.cubeyond.net/)
-
 
 ### :coffee: Latest Blog Posts
 
@@ -46,16 +46,3 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
 ![Qemu](https://img.shields.io/badge/-Qemu-333333?style=flat-square&logo=qemu)
-
-### :chart_with_upwards_trend: Contributions / Language stats
-
-<div align="center">
-  <img src="https://github.com/CuB3y0nd/CuB3y0nd/blob/main/profile-3d-contrib/profile-green-animate.svg" />
-</div>
-
-<p align="right">
-  <img
-    src="https://komarev.com/ghpvc/?username=CuB3y0nd&style=flat-square&abbreviated=true"
-    alt="CuB3y0nd"
-  />
-</p>
