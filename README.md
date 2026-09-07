@@ -31,6 +31,7 @@
  - [CVE-2026-58459](https://www.cve.org/CVERecord?id=CVE-2026-58459): GPSd gpsprof gnuplot Command Injection via GPS Metadata
  - [CVE-2026-61702](https://www.cve.org/CVERecord?id=CVE-2026-61702): cups Root-side Banner File Disclosure
  - [CVE-2026-60122](https://www.cve.org/CVERecord?id=CVE-2026-60122): GPSd gpsprof Code Injection via SKY.satellites used Field
+ - [CVE-2026-77395](https://www.cve.org/CVERecord?id=CVE-2026-77395): stargz remote snapshots RCE via image cache poisoning
 
 ### :zap: Tech Stack & Tools
 
