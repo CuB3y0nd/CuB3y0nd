@@ -13,10 +13,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [LaTeX in Philes](https://www.cubeyond.net/volume/3/latex-support/)
+- [Prompt Hacking: When Boundaries Fail](https://www.cubeyond.net/volume/0/prompt-hacking/)
 - [Inspect: Read the Bits](https://www.cubeyond.net/volume/3/inspect-field-notes/)
 - [ANSI Ink for Philes](https://www.cubeyond.net/volume/3/ansi-ink-phile/)
 - [Let&#39;s Decrypt NETGEAR EXS27 NGR Firmware V1.0.1.34!](https://www.cubeyond.net/volume/0/netgear-exs27-0/)
-- [CVE-2017-9048: libxml2](https://www.cubeyond.net/volume/1/libxml2-cve-2017-9048/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :checkered_flag: My CVEs
