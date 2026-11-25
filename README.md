@@ -6,9 +6,9 @@
 - :test_tube: Role: Retired Pwner & Security Researcher [@RaptX](https://raptx.org/)
 - :mailbox_with_mail: E-Mail: [root -at- cubeyond -dot- net](mailto:root@cubeyond.net)
 - :stars: Discord: `CuB3y0nd#6307`
-- :key: Public Key: [Probably harmless.](https://www.cubeyond.net/key.asc)
+- :key: Public Key: [Probably harmless.](https://www.cubeyond.net/assets/pgp/public-key.asc)
 - :dart: Portfolio: [cubeyond.net](https://www.cubeyond.net/)
-- :checkered_flag: CVEs: [Vulnerability disclosures](https://www.cubeyond.net/cves/)
+- :checkered_flag: CVEs: [Bugs I reported before they exploited me](https://www.cubeyond.net/cves/)
 
 ### :coffee: Latest Blog Posts
 
