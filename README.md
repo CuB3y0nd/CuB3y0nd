@@ -3,11 +3,12 @@
 
 ### :jack_o_lantern: TL;DR
 
-- :test_tube: Role: Retired Pwner & Researcher [@RaptX](https://raptx.org/)
+- :test_tube: Role: Retired Pwner & Security Researcher [@RaptX](https://raptx.org/)
 - :mailbox_with_mail: E-Mail: [root -at- cubeyond -dot- net](mailto:root@cubeyond.net)
 - :stars: Discord: `CuB3y0nd#6307`
 - :key: Public Key: [Probably harmless.](https://www.cubeyond.net/key.asc)
 - :dart: Portfolio: [cubeyond.net](https://www.cubeyond.net/)
+- :checkered_flag: CVEs: [Vulnerability disclosures](https://www.cubeyond.net/cves/)
 
 ### :coffee: Latest Blog Posts
 
@@ -18,20 +19,6 @@
 - [ANSI Ink for Philes](https://www.cubeyond.net/volume/3/ansi-ink-phile/)
 - [Let&#39;s Decrypt NETGEAR EXS27 NGR Firmware V1.0.1.34!](https://www.cubeyond.net/volume/0/netgear-exs27-0/)
 <!-- BLOG-POST-LIST:END -->
-
-### :checkered_flag: My CVEs
-
- - [CVE-2024-25817](https://www.cve.org/CVERecord?id=CVE-2024-25817): eza buffer overflow via `.git` metadata
- - [CVE-2025-60939](https://www.cve.org/CVERecord?id=CVE-2025-60939): Spotify Client Denial of Service
- - [CVE-2026-56113](https://www.cve.org/CVERecord?id=CVE-2026-56113): DHCPv6 PD RENEW Use-After-Free
- - [CVE-2026-56114](https://www.cve.org/CVERecord?id=CVE-2026-56114): DHCPv6 PD Exclude Stack OOB Write
- - [CVE-2026-56116](https://www.cve.org/CVERecord?id=CVE-2026-56116): IPv6 RA RouteInfo Memory Leak
- - [CVE-2026-56117](https://www.cve.org/CVERecord?id=CVE-2026-56117): Control Socket Use-After-Free
- - [CVE-2026-58458](https://www.cve.org/CVERecord?id=CVE-2026-58458): Don't Starve Together Public Lobby Client DoS
- - [CVE-2026-58459](https://www.cve.org/CVERecord?id=CVE-2026-58459): GPSd gpsprof gnuplot Command Injection via GPS Metadata
- - [CVE-2026-61702](https://www.cve.org/CVERecord?id=CVE-2026-61702): cups Root-side Banner File Disclosure
- - [CVE-2026-60122](https://www.cve.org/CVERecord?id=CVE-2026-60122): GPSd gpsprof Code Injection via SKY.satellites used Field
- - [CVE-2026-77395](https://www.cve.org/CVERecord?id=CVE-2026-77395): stargz remote snapshots RCE via image cache poisoning
 
 ### :zap: Tech Stack & Tools
 
